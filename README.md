@@ -7,3 +7,4 @@ This repository is created to store my Golang practice & learning results
 
 ▶️ List:
 - [os.ReadFile](./readFile.go) - **Read File**
+- [os.Create](./createFile.go) - **Create File**
