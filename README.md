@@ -6,5 +6,6 @@
 This repository is created to store my Golang practice & learning results
 
 ▶️ List:
-- [os.ReadFile](./readFile.go) - **Read File**
-- [os.Create](./createFile.go) - **Create File**
+- [os.ReadFile](./readFile.go) - **Read file**
+- [os.Create](./createFile.go) - **Create file**
+- [filectl](./filectl.go) - **Simple CLI Tool** for write, read, and delete files
