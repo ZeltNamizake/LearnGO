@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width=100/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width=150/>
+  <img src="https://go.dev/images/gophers/blue.svg" width=50/>
 </div>
 
 # LearnGo
@@ -12,3 +13,4 @@ This repository is created to store my Golang practice & learning results
 - [os.WriteFile](./writeFile.go) - **Write File** without os.Create + WriteString
 - [os.Open](./openFile.go) - **Open file**
 - [bufio.NewScanner](./bufioReadFile.go) - **Open & Read** file with os.Open & bufio.NewScanner
+- [autoFile](./autoFile.go) - **Practice** creating files and reading them automatically
