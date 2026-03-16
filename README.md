@@ -11,3 +11,4 @@ This repository is created to store my Golang practice & learning results
 - [filectl](./filectl.go) - **Simple CLI Tool** for write, read, and delete files
 - [os.WriteFile](./writeFile.go) - **Write File** without os.Create + WriteString
 - [os.Open](./openFile.go) - **Open file**
+- [bufio.NewScanner](./bufioReadFile.go) - **Open & Read** file with os.Open & bufio.NewScanner
