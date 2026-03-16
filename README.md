@@ -15,3 +15,4 @@ This repository is created to store my Golang practice & learning results
 - [bufio.NewScanner](./bufioReadFile.go) - **Open & Read** file with os.Open & bufio.NewScanner
 - [autoFile](./autoFile.go) - **Practice** creating files and reading them automatically
 - [calc](./calc.go) - **Operator** training & creating a simple calculator
+- [inputUser](./inputUser.go) - **Input text** with fmt, os.Stdin, and bufio.NewScanner
