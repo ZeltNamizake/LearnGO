@@ -12,3 +12,4 @@ This repository is created to store my Golang practice & learning results
 - [os.WriteFile](./writeFile.go) - **Write File** without os.Create + WriteString
 - [os.Open](./openFile.go) - **Open file**
 - [bufio.NewScanner](./bufioReadFile.go) - **Open & Read** file with os.Open & bufio.NewScanner
+- [autoFile](./autoFile.go) - **Practice** creating files and reading them automatically
