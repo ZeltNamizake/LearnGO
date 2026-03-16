@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width=100/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width=150/>
+  <img src="https://go.dev/images/gophers/blue.svg" width=50/>
 </div>
 
 # LearnGo
