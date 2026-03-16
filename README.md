@@ -16,3 +16,4 @@ This repository is created to store my Golang practice & learning results
 - [autoFile](./autoFile.go) - **Practice** creating files and reading them automatically
 - [calc](./calc.go) - **Operator** training & creating a simple calculator
 - [inputUser](./inputUser.go) - **Input text** with fmt, os.Stdin, and bufio.NewScanner
+- [ageCalc](./ageCalc.go) - **Practice** making an age calculator
