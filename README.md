@@ -18,3 +18,4 @@ This repository is created to store my Golang practice & learning results
 - [inputUser](./inputUser.go) - **Input text** with fmt, os.Stdin, and bufio.NewScanner
 - [ageCalc](./ageCalc.go) - **Practice** making an age calculator
 - [driwda](./driwda.go) - **Simple CLI Tool** for UDP flood experiment
+- [pracFunc1](./pracFunc1.go) - **Function exercises — 1**
