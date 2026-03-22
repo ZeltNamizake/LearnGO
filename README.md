@@ -22,3 +22,4 @@ This repository is created to store my Golang practice & learning results
 - [pracFunc2](./pracFunc2.go) - **Function exercises — 2** Create input + calculator
 - [toolKit-V1](./toolKit-V1) - **Toolkit making practice**
 - [looping](./looping.go) - **Looping Exercise - 1**
+- [GoGET](./GoGET.go) - **HTTP GET tool** with header selection
