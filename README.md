@@ -26,3 +26,4 @@ This repository is created to store my Golang practice & learning results
 - [filectl](./examples/filectl.go) - **Simple CLI Tool** for write, read, and delete files
 - [inputUser](./examples/inputUser.go) - **Input text** with fmt, os.Stdin, and bufio.NewScanner
 - [driwda](./examples/driwda.go) - **Simple CLI Tool** for UDP flood experiment
+- [readWordlist](./examples/readWordlist.go) - **Simple CLI** read file wordlist
