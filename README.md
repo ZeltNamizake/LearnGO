@@ -15,6 +15,7 @@ This repository is created to store my Golang practice & learning results
 - [pracFunc1](./exercises/pracFunc1.go) - **Function exercises — 1**
 - [pracFunc2](./exercises/pracFunc2.go) - **Function exercises — 2** Create input + calculator
 - [goroutine1](./exercises/goroutine1.go) - **Goroutine exercises — 1**
+- [goroutine2](./exercises/goroutine2.go) - **Goroutine exercises — 2** read the file "wordlist" and run all functions at once with goroutines
 
 ## Examples
 - [GoGET](./examples/GoGET.go) - **HTTP GET tool** with header selection
