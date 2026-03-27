@@ -29,3 +29,4 @@ This repository is created to store my Golang practice & learning results
 - [inputUser](./examples/inputUser.go) - **Input text** with fmt, os.Stdin, and bufio.NewScanner
 - [driwda](./examples/driwda.go) - **Simple CLI Tool** for UDP flood experiment
 - [readWordlist](./examples/readWordlist.go) - **Simple CLI** read file wordlist
+- [qrterminal](./examples/qrterminal.go) - **Simple CLI** Generate QR Code in Terminal
