@@ -33,3 +33,4 @@ This repository is created to store my Golang practice & learning results
 - [readWordlist](./examples/readWordlist.go) - **Simple CLI** read file wordlist
 - [qrterminal](./examples/qrterminal.go) - **Simple CLI** Generate QR Code in Terminal
 - [portScan](./examples/portScan.go) - **Simple CLI** Port Scanner
+- [revshell](./examples/revshell.go) - **Reverse Shell**
