@@ -32,3 +32,4 @@ This repository is created to store my Golang practice & learning results
 - [driwda](./examples/driwda.go) - **Simple CLI Tool** for UDP flood experiment
 - [readWordlist](./examples/readWordlist.go) - **Simple CLI** read file wordlist
 - [qrterminal](./examples/qrterminal.go) - **Simple CLI** Generate QR Code in Terminal
+- [scanPort](./examples/scanPort.go) - **Simple CLI** Port Scanner
