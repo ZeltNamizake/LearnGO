@@ -34,3 +34,4 @@ This repository is created to store my Golang practice & learning results
 - [qrterminal](./examples/qrterminal.go) - **Simple CLI** Generate QR Code in Terminal
 - [portScan](./examples/portScan.go) - **Simple CLI** Port Scanner
 - [revshell](./examples/revshell.go) - **Reverse Shell**
+- [telebot](./examples/telebot.go) - **Telegram Bot**
