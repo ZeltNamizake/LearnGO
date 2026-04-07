@@ -35,3 +35,4 @@ This repository is created to store my Golang practice & learning results
 - [portScan](./examples/portScan.go) - **Simple CLI** Port Scanner
 - [revshell](./examples/revshell.go) - **Reverse Shell**
 - [telebot](./examples/telebot.go) - **Telegram Bot**
+- [table](./examples/table.go) - **Examples** - create simple table
