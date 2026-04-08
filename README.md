@@ -18,6 +18,7 @@ This repository is created to store my Golang practice & learning results
 - [goroutine2](./exercises/goroutine2.go) - **Goroutine exercises — 2** read the file "wordlist" and run all functions at once with goroutines
 - [mapLearn1](./exercises/mapLearn1.go) - **Map Exercise - 1**
 - [pathLearn1](./exercises/pathLearn1.go) - **path/filepath Exercise - 1**
+- [struct](./exercises/struct.go) - **Struct exercises**
 
 ## Examples
 - [GoGET](./examples/GoGET.go) - **HTTP GET tool** with header selection
@@ -36,3 +37,4 @@ This repository is created to store my Golang practice & learning results
 - [revshell](./examples/revshell.go) - **Reverse Shell**
 - [telebot](./examples/telebot.go) - **Telegram Bot**
 - [table](./examples/table.go) - **Examples** - create simple table
+- [gotask](./examples/gotask.go) - **Examples** - Input and save struct data to a .JSON file
